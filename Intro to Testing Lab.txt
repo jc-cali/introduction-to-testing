@@ -1,0 +1,80 @@
+Amazon App
+
+Feature: Search Query
+Conditionals #1: The search edit box is visible on the home screen.
+User Story: As a user I can search for an item by entering item in search box.
+
+Conditionals #2: The search display a history of my previous searches.
+User Story: As a user I can view previous searches displayed underneath the search box.
+
+Conditionals #3: I can click on a previous search to search an item.
+User Story: As a user I can re-query a previous search by clicking on a list view of previous searches.
+
+Conditionals #4: The search box auto-completes your search from previous searches from users.
+User Story: As a user I can receive assistance with my search by having my search be auto-completed 
+			with previous user's searches.
+
+Conditionals #5: The search can view a picture or bar scan to complete the search.
+User Story: As a user I can take a picture of an object or bar scan by pushing the camera icon and a search 
+			will be performed.
+
+Conditionals #6: The list of historical searches can be removed from the display.
+User Story: As a user I can individually remove previous searches by clicking on the "x" next to search.
+
+
+Feature: Purchase Item
+Conditionals #1: The item screen displays whether the item is in stock.
+User Story: As a user I can determine if an item is in stock by viewing underneath the item price for the status "In Stock".
+
+Conditionals #2: The item screen displays the seller of the item.
+User Story: As a user I can view the seller by looking for the "Sold by" label on the screen.
+
+Conditionals #3: The app provides a list of all sellers of the product.
+User Story: As a user I can view all the sellers and their prices by clicking on the button that displays all the sellers.
+
+Conditionals #4: The item can be stored to a wishlist for future purchase.
+User Story: As a user I can add the item to my wishlist by clicking on the "Add to List" button.
+
+Conditionals #5: The item can be chosen to be purchased.
+User Story: As a user I can purchase an item by clicking on the "Add to Cart" button.
+
+Conditionals #6: I can save my credit card for future purchases.
+User Story: As a user I can store my credit card for future purchase by clicking on the checkbox to save credit card information
+			next to the credit card edit box.
+			
+Conditionals #7: The item can be mailed as a gift to my brother's house
+User Story: As a user I can send the item as a gift to my brother by clicking on the checkbox to indicate 
+			the item is  gift.
+
+Feature: Orders
+Conditionals #1: I can view my orders from Amazon.
+User Story: As a user I can view my orders by clicking on the order link on the menu screen.
+
+Conditionals #2: I can view the delivery date of my order.
+User Story: As a user I can view the delivery date by clicking on the item, which opens a screen displaying 
+			the delivery date.
+
+Conditionals #3: I can track the order.
+User Story: As a user I can track the order by clicking on the "Track package" button to view the chronological 
+			order of the status of where my item is presently geologically.
+
+Conditionals #4: I can cancel my order.
+User Story: As a user I can cancel my order by clicking on the "Cancel Order" button if the item hasn't been shipped yet.
+			user's searches.
+
+Conditionals #5: I can view the order detail of a previous order.
+User Story: As a user I can view a previous order by clicking on the "View Order Detail" button that will display
+			the item detail, order #, purchase price and delivery date.
+			
+Conditionals #6: I can leave a review of the purchased item.
+User Story: As a user I can leave a product review by clicking on the "Write a product review" button that will
+			display the 5 star rating screen, the comment box and headline of the review.
+
+Conditionals #7: I can leave a review of package delivery.
+User Story: As a user I can leave a review of the package delivery by clicking on the "Leave package feedback" button that
+			will display a box of radio buttons to rate the condition of the package and the rating of the box size if it's
+			appropriate for the item.
+			
+			
+			
+			
